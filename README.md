@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, my name is Yussef
+### Hi there 👋, my name is Yussef
 #### I am constantly learning and building in the world of Data Science.
 I am passionate about taking on new challenges and continuously learning. I enjoy stepping outside my comfort zone, solving complex problems, and developing skills that allow me to grow both personally and professionally.
 
